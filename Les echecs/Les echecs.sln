@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les echecs", "Les echecs\Les echecs.csproj", "{40434920-69AD-46B6-889A-98E45755310A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40434920-69AD-46B6-889A-98E45755310A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40434920-69AD-46B6-889A-98E45755310A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40434920-69AD-46B6-889A-98E45755310A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40434920-69AD-46B6-889A-98E45755310A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BF7446A-0F33-43A9-8FD1-CF524038E6A4}
+	EndGlobalSection
+EndGlobal
