@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les echecs", "Les echecs\Les echecs.csproj", "{40434920-69AD-46B6-889A-98E45755310A}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Les echecs VB", "Les echecs VB\Les echecs VB.vbproj", "{65626F18-90E9-47F0-8BB4-3A860EAC66FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{40434920-69AD-46B6-889A-98E45755310A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40434920-69AD-46B6-889A-98E45755310A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40434920-69AD-46B6-889A-98E45755310A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65626F18-90E9-47F0-8BB4-3A860EAC66FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65626F18-90E9-47F0-8BB4-3A860EAC66FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65626F18-90E9-47F0-8BB4-3A860EAC66FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65626F18-90E9-47F0-8BB4-3A860EAC66FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
